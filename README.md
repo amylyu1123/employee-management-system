@@ -9,6 +9,7 @@ Note: table names are not case-sensitive.
 d. Connection Pool
 Download and install DBUtils 1.3
 
+
 2.Database initialization
 a. Create a database named ***, e.g. training.
 b. Under MySQL client, enter into the *** to run db/sys_setup.sql 
