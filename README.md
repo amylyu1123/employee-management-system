@@ -25,3 +25,5 @@ b. Modify Connection Pool configuration:
 
 5. Open browser and visit URL: http://127.0.0.1:8000
 
+See project.info for more details
+
