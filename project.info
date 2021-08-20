@@ -1,0 +1,28 @@
+This project contains a full ACL(access control list) system and an employee salary management.
+
+First-time setup:
+At the login page, press the button "Login Anonymously", then press "Set Up System". This will import any data from the database into the program, including default departments roles, resources, and an existing administrator account.
+
+
+The followings are some main functions:
+
+There are two roles initially: administrator and normal user.
+
+Admin can access
+1. User Department Management
+2. Account Management
+3. User Role Management
+4. Role Management
+5. Resource Management
+6. Role Resource Management
+7. Employee Salary Management
+
+For the Employee Salary Management, it has two parts: Stat and Sql.
+For both types of users:
+In Stat Page, you can see different diagrams for current employees information. 
+In Sql Page, you can see a table that contains the summary of the statistics of current employees information. 
+If you are an administrator, you can also modify employee information by adding/deleting/editing/searching employee(s). 
+
+You can login using the existing administrator's account to change other user's role into an administrator:
+Username: admin
+Password: admin
