@@ -30,8 +30,8 @@ Note: you can login using the existing administrator's account to change other u
 
 **Username: admin**, **Password: admin**
 
-
-**Try the following process to run this program.**
+# Get Started
+**Try the following process to set up and run this program.**
 
 ## Environment Preparation
 - OS recommendation: Ubuntu Linux 18.04
