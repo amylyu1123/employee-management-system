@@ -25,9 +25,7 @@
     - password with your MySQL database password
     - Keep everything else unchanged.
 
-## Run Django
+**Run Django server and open browser and visit URL: http://127.0.0.1:8000**
 
-## Open browser and visit URL: http://127.0.0.1:8000
-
-See project.info for more details
+See project.info for more details.
 
