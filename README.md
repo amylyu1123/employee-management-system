@@ -1,5 +1,5 @@
 ## Introduction
-This project contains a full ACL(access control list) System and an Employee salary Management System.
+This project is a web application containing an Employee salary Management System, allowing access control.
 
 ### First-time setup
 At the login page, press the button "Login Anonymously", then press "Set Up System". 
